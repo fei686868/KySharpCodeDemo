@@ -1,0 +1,8 @@
+G:\TestProject\demo\demo.Model\bin\Debug\netstandard2.0\demo.Model.deps.json
+G:\TestProject\demo\demo.Model\bin\Debug\netstandard2.0\demo.Model.dll
+G:\TestProject\demo\demo.Model\bin\Debug\netstandard2.0\demo.Model.pdb
+G:\TestProject\demo\demo.Model\obj\Debug\netstandard2.0\demo.Model.csprojAssemblyReference.cache
+G:\TestProject\demo\demo.Model\obj\Debug\netstandard2.0\demo.Model.AssemblyInfoInputs.cache
+G:\TestProject\demo\demo.Model\obj\Debug\netstandard2.0\demo.Model.AssemblyInfo.cs
+G:\TestProject\demo\demo.Model\obj\Debug\netstandard2.0\demo.Model.dll
+G:\TestProject\demo\demo.Model\obj\Debug\netstandard2.0\demo.Model.pdb
